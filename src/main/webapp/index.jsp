@@ -8,9 +8,10 @@
 </head>
 <body>
 <h1>Ejemplo de Proyecto de ASR con Cloudant ahora con DevOps</h1>
-<h2>Esta es una práctica de Pilar Hernández con GIT, hola</h2>
+<h2>Esta es una práctica de Pilar Hernández con GIT</h2>
+<p>Vamos a probar que funciona todo. Práctica 10d</p>
 <hr />
-<p>Opciones de la clase de ASR:</p>
+<p>¿Qué quieres hacer?:</p>
 <ul>
 <li><a href="listar">Listar</a></li>
 <li><a href="insertar?palabra=hola">Insertar</a></li>
