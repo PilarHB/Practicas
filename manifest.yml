@@ -8,4 +8,4 @@ applications:
   host: asrTomcatEjemploCloudant-Pilar
   domain: apic.mybluemix.net
   services:
-  - asrDCBCloudantNoSQL
+  - asrDCBcloudantNoSQLDB
