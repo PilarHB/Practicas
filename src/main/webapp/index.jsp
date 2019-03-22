@@ -9,7 +9,7 @@
 <body>
 <h1>Ejemplo de Proyecto de ASR con Cloudant ahora con DevOps</h1>
 <h2>Esta es una práctica de Pilar Hernández con GIT</h2>
-<p>Vamos a probar que funciona todo. Práctica 10d</p>
+<p>Vamos a probar que funciona todo de forma automática. Práctica 10d</p>
 <hr />
 <p>¿Qué quieres hacer?:</p>
 <ul>
